@@ -6,8 +6,7 @@ using UnityEngine;
 using UnityEditor;
 #endif
 
-public class Title : MonoBehaviour
-{
+public class Title : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
