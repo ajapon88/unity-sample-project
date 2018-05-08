@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/ajapon88/pronto-style_cop.git
-  revision: aa74b28fd1c7de70c6c49fa09dcbe0b08b48024e
+  revision: 0e69e0d9c615e4d42052d42498c14ea654987efb
   specs:
     pronto-style_cop (0.9.0)
       pronto (~> 0.9.0)
