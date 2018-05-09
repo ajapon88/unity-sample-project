@@ -1,0 +1,10 @@
+all:
+  exclude:
+    - 'spec/**/*'
+# exclude files for single runner
+style_cop:
+  definitions:
+    - DEBUG
+    - UNITY_EDITOR
+    - [DEBUG, UNITY_EDITOR]
+  

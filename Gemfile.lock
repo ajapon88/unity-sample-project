@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/ajapon88/pronto-style_cop.git
-  revision: 11a3bb8133c3271a9df4897cbc6140def9b88715
+  revision: 45aeebe6a864afe4b761421a62fd359b72b1bd24
   specs:
     pronto-style_cop (0.9.0)
       pronto (~> 0.9.0)
@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/ajapon88/ruby-style_cop.git
-  revision: bc44b1838c8d6c664a1ecf8a235b8a0131913d2d
+  revision: b4a3dfa5db9093117437beff5db93ed4adb87827
   ref: 0.1.0
   specs:
     style_cop (0.1.0)
