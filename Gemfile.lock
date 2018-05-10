@@ -1,18 +1,9 @@
 GIT
   remote: https://github.com/ajapon88/pronto-style_cop.git
-  revision: 45aeebe6a864afe4b761421a62fd359b72b1bd24
+  revision: 1d762c3a2e1af1fb89d6f2cf214e7306f4a14a90
   specs:
     pronto-style_cop (0.9.0)
       pronto (~> 0.9.0)
-      style_cop
-
-GIT
-  remote: https://github.com/ajapon88/ruby-style_cop.git
-  revision: b4a3dfa5db9093117437beff5db93ed4adb87827
-  ref: 0.1.0
-  specs:
-    style_cop (0.1.0)
-      highline
 
 GEM
   remote: https://rubygems.org/
@@ -24,7 +15,6 @@ GEM
     gitlab (4.3.0)
       httparty
       terminal-table
-    highline (1.7.10)
     httparty (0.16.2)
       multi_xml (>= 0.5.2)
     multi_xml (0.6.0)
@@ -57,7 +47,6 @@ PLATFORMS
 DEPENDENCIES
   pronto
   pronto-style_cop!
-  style_cop!
 
 BUNDLED WITH
    1.16.1
