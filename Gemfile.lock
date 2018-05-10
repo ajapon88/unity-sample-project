@@ -1,16 +1,9 @@
-GIT
-  remote: https://github.com/ajapon88/pronto-style_cop.git
-  revision: 1d762c3a2e1af1fb89d6f2cf214e7306f4a14a90
-  specs:
-    pronto-style_cop (0.9.0)
-      pronto (~> 0.9.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
-    faraday (0.15.0)
+    faraday (0.15.1)
       multipart-post (>= 1.2, < 3)
     gitlab (4.3.0)
       httparty
@@ -28,6 +21,8 @@ GEM
       rainbow (~> 2.1)
       rugged (~> 0.24, >= 0.23.0)
       thor (~> 0.19.0)
+    pronto-style_cop (0.9.0)
+      pronto (~> 0.9.0)
     public_suffix (3.0.2)
     rainbow (2.2.2)
       rake
@@ -46,7 +41,7 @@ PLATFORMS
 
 DEPENDENCIES
   pronto
-  pronto-style_cop!
+  pronto-style_cop
 
 BUNDLED WITH
    1.16.1
